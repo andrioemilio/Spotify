@@ -1,0 +1,11 @@
+artist,album,track_name,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo,Clusters
+Coi Leray,Players,Players,0.954,0.516,-5.817,0.16,7.54e-06,0.0504,0.624,105.001,1
+Toosii,Favorite Song,Favorite Song,0.816,0.367,-9.354,0.0588,0.0,0.0987,0.413,116.035,1
+Yng Lvcas,La Bebe (Remix),La Bebe - Remix,0.812,0.479,-5.678,0.333,1.21e-06,0.0756,0.559,169.922,1
+Drake,Search & Rescue,Search & Rescue,0.817,0.44,-8.482,0.0734,1.42e-06,0.33,0.544,142.024,1
+Miguel,All I Want Is You,Sure Thing,0.684,0.607,-8.127,0.1,0.000307,0.191,0.498,81.001,1
+Ed Sheeran,Eyes Closed,Eyes Closed,0.777,0.526,-6.221,0.0645,0.0,0.105,0.389,107.071,1
+Queen,Hot Space (2011 Remaster),Cool Cat - Remastered 2011,0.818,0.4,-9.927,0.11,0.00241,0.18,0.838,73.76,1
+Tori Amos,Under the Pink,Cornflake Girl,0.631,0.638,-8.958,0.0274,0.000516,0.216,0.812,133.739,1
+Peso Pluma,Por las Noches,Por las Noches,0.807,0.595,-7.19,0.0325,2.44e-05,0.0735,0.392,92.491,1
+FIFTY FIFTY,The Beginning: Cupid,Cupid - Twin Ver.,0.783,0.592,-8.332,0.0331,4.15e-06,0.347,0.726,120.018,1

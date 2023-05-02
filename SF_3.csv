@@ -1,0 +1,21 @@
+artist,album,track_name,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo,Clusters
+Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),0.801,0.806,-5.206,0.0381,0.000669,0.114,0.802,106.999,2
+Eslabon Armado,Ella Baila Sola,Ella Baila Sola,0.668,0.758,-5.176,0.0332,1.89e-05,0.0837,0.834,147.989,2
+Miley Cyrus,Flowers,Flowers,0.707,0.681,-4.325,0.0668,5.15e-06,0.0322,0.646,117.999,2
+PinkPantheress,Boy's a liar Pt. 2,Boy's a liar Pt. 2,0.696,0.809,-8.254,0.05,0.000128,0.248,0.857,132.962,2
+Chino Pacas,El Gordo Trae El Mando,El Gordo Trae El Mando,0.736,0.8,-5.38,0.0525,0.0,0.0498,0.961,140.253,2
+Incubus,Make Yourself,Drive,0.645,0.792,-7.34,0.036,0.0121,0.119,0.666,90.565,2
+Doechii,What It Is (Versions),What It Is (Solo Version),0.74,0.758,-5.851,0.0921,1.44e-06,0.0967,0.757,171.925,2
+Sabrina Carpenter,emails i can't send,Nonsense,0.74,0.697,-4.912,0.034,0.0,0.224,0.732,138.992,2
+Grupo Marca Registrada,Di Que Si,Di Que Si,0.57,0.589,-5.378,0.0488,0.0,0.0582,0.796,182.318,2
+KAROL G,MAÑANA SERÁ BONITO,TQG,0.72,0.63,-3.547,0.277,0.0,0.0936,0.607,179.974,2
+Latto,Lottery (feat. LU KALA),Lottery (feat. LU KALA),0.792,0.874,-2.966,0.0852,0.000365,0.071,0.934,113.969,2
+a-ha,Hunting High and Low,Take on Me,0.573,0.902,-7.638,0.054,0.00125,0.0928,0.876,84.412,2
+Yuridia,Qué Agonía,Qué Agonía,0.732,0.573,-5.733,0.0237,9.34e-06,0.0543,0.882,97.502,2
+Peso Pluma,PRC,PRC,0.784,0.826,-6.34,0.0538,7.09e-05,0.123,0.893,138.078,2
+Natanael Cano,AMG,AMG,0.772,0.73,-6.657,0.0972,0.000107,0.274,0.786,136.175,2
+FIFTY FIFTY,The Beginning: Cupid,Cupid,0.774,0.66,-8.2,0.0328,0.0,0.4,0.961,120.023,2
+Yandel,Yandel 150,Yandel 150,0.783,0.729,-3.549,0.0691,0.000272,0.1,0.58,167.968,2
+Chino Pacas,Dijeron Que No La Iba Lograr,Dijeron Que No La Iba Lograr,0.703,0.791,-6.792,0.0657,0.0,0.106,0.759,142.219,2
+Junior H,El Azul,El Azul,0.558,0.648,-7.081,0.055,7.76e-06,0.0986,0.844,143.876,2
+Fuerza Regida,Ch y la Pizza,Ch y la Pizza,0.661,0.6,-4.495,0.125,0.0,0.141,0.848,148.666,2
