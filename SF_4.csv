@@ -1,5 +1,5 @@
-artist,album,track_name,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo,Clusters
-The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Mayonaise - 2011 Remaster,0.482,0.529,-10.426,0.0271,0.546,0.0839,0.0879,145.969,3
-Drake,Her Loss,Rich Flex,0.561,0.52,-9.342,0.244,1.86e-06,0.355,0.424,153.15,3
-Lizzy McAlpine,five seconds flat,ceilings,0.516,0.322,-11.762,0.0292,0.00194,0.215,0.261,148.005,3
-Lil Baby,It's Only Me,Forever (feat. Fridayy),0.462,0.251,-12.072,0.159,0.0,0.201,0.137,89.705,3
+track_name,artist
+Mayonaise - 2011 Remaster,The Smashing Pumpkins
+Rich Flex,Drake
+ceilings,Lizzy McAlpine
+Forever (feat. Fridayy),Lil Baby
